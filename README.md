@@ -6,7 +6,6 @@
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/b_juanm/)
 
 ![Berg GitHub stats](https://github-readme-stats.vercel.app/api?username=BRGS224&show_icons=true&theme=onedark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BRGS224)](https://github.com/BRGS224/github-readme-stats)
 
 ## Algumas das tecnologias que eu uso
