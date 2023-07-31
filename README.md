@@ -1,6 +1,6 @@
 
 
-### Olá! Eu sou o Bergson Martins, graduando do curso de Sistemas de Informação pela Universidade Tecnológica Federal do Paraná.
+### Olá! Eu sou o Bergson Martins
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bergson-juan-888059191/)
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/b_juanm/)
@@ -17,5 +17,5 @@
     <img aling="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </div><br/>
 
-Estudante de Sistemas de Informação pela Universidade Tecnológica do Paraná(UTFPR) e aspirante a programador.
+Graduando no curso de Sistemas de Informação pela Universidade Tecnológica do Paraná(UTFPR), atualmente interessado na área de cibersegurança e aspirante a programador.
 
