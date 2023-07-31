@@ -1,6 +1,6 @@
 
 
-### Olá! Eu sou o Bergson Martins
+### Olá! Eu sou o Bergson Martins, graduando do curso de Sistemas de Informação pela Universidade Tecnológica Federal do Paraná.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bergson-juan-888059191/)
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/b_juanm/)
