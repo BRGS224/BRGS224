@@ -17,5 +17,5 @@
     <img aling="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </div><br/>
 
-Graduando no curso de Sistemas de Informação pela Universidade Tecnológica do Paraná(UTFPR), atualmente interessado na área de cibersegurança e aspirante a programador.
+Graduando no curso de Sistemas de Informação pela Universidade Tecnológica do Paraná(UTFPR), possuo experiências em linguagens de programação orientadas a objeto como Java e C++. Além disso tenho conhecimento básico em HTML/CSS, como também em JavaScript. Buscando atuar na área de tecnologia, voltado para Segurança da Informação.
 
